@@ -499,7 +499,7 @@ li {
     }
     .menu1{
         text-align: center;
-        margin:auto
+        margin: 0 auto;
     }
     .title-bold{
         text-align: center;
@@ -519,6 +519,7 @@ li {
     }
     .content-footer{
         width: 95%;
+        margin: 0 auto;
     }
     .menu{
         font-size: 14px;
